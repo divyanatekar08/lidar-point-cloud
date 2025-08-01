@@ -3,17 +3,15 @@
 
 <h5 style="font-family:'Times New Roman', Times, serif;">
 Hello, I am Divya Natekar, a graduate student at New York University, pursuing an MS in Applied Urban Science & Informatics at the Center for Urban Science + Progress (CUSP), at Tandon School of Engineering.
-<br><br>
+<br><p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h1YXE3bnBjcjU1dGhvZmducXpueGkwY3B6d3gxMTU4emllaXFjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif"
+       alt="Animated Laser Scanner"
+       style="width: 90px; height: auto;">
+</p><br>
 This GitHub repository is focused on showcasing the programs and other associated workings that I have developed as a part of my Summer 2025 research project, under the guidance of Professor Debra Laefer.
 <br>
 My project was focused on LiDAR data processing and transient object removal, thus simulating a realistic terrestrial laser scanning system, in order to improve visibility and occlusion-based filtering in dense urban environments.
 </h5>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h1YXE3bnBjcjU1dGhvZmducXpueGkwY3B6d3gxMTU4emllaXFjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif"
-       alt="Animated Laser Scanner"
-       style="width: 90px; height: auto;">
-</p>
 
 <h3 align="left">Contact Info:</h3>
 <p align="left">
