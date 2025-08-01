@@ -1,6 +1,6 @@
 # lidar-point-cloud
-<h3 align="center">Hi, I'm Divya Natekar.</h3>
-<h5>I am a graduate student at New York University, pursuing an MS in Applied Urban Science & Informatics at the Center for Urban Science + Progress (CUSP), at Tandon School of Engineering.
+<h3 align="center">Transient Object Removal in LiDAR</h3>
+<h5>Hello, I am Divya Natekar, a graduate student at New York University, pursuing an MS in Applied Urban Science & Informatics at the Center for Urban Science + Progress (CUSP), at Tandon School of Engineering.
 
 <br>This GitHub repository is focused on showcasing the programs and other associated workings that I have developed as a part of my Summer 2025 research project, under the guidance of Professor Debra Laefer. 
 <br>My project was focused on LiDAR data processing and transient object removal, thus simulating a realistic terrestrial laser scanning system, in order to improve visibility and occlusion-based filtering in dense urban environments.</h5>
