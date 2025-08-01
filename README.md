@@ -10,7 +10,7 @@ My project was focused on LiDAR data processing and transient object removal, th
 </h5>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="LiDAR Transient Object Removal Demo" style="max-width: 100%; height: auto; border-radius: 8px;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h1YXE3bnBjcjU1dGhvZmducXpueGkwY3B6d3gxMTU4emllaXFjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" alt="Animated Laser Scanner" style="max-width: 100%; height: auto;">
 </p>
 
 <h3 align="left">Contact Info:</h3>
