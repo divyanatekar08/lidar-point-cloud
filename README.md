@@ -12,7 +12,7 @@ My project was focused on LiDAR data processing and transient object removal, th
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h1YXE3bnBjcjU1dGhvZmducXpueGkwY3B6d3gxMTU4emllaXFjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif"
        alt="Animated Laser Scanner"
-       style="width: 30px; height: auto;">
+       style="width: 90px; height: auto;">
 </p>
 
 <h3 align="left">Contact Info:</h3>
