@@ -5,6 +5,10 @@
 Hello, I am Divya Natekar, a graduate student at New York University, pursuing an MS in Applied Urban Science & Informatics at the Center for Urban Science + Progress (CUSP), at Tandon School of Engineering.
 <br><br>
 This GitHub repository is focused on showcasing the programs and other associated workings that I have developed as a part of my Summer 2025 research project, under the guidance of Professor Debra Laefer.
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="LiDAR Transient Object Removal Demo" style="max-width: 100%; height: auto; border-radius: 8px;">
+</p>
+
 <br>
 My project was focused on LiDAR data processing and transient object removal, thus simulating a realistic terrestrial laser scanning system, in order to improve visibility and occlusion-based filtering in dense urban environments.
 </h5>
